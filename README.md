@@ -1,10 +1,8 @@
 # EdgeOne Monitoring Dashboard (EdgeOne 监控大屏)
 
->［!NOTE］
-> 新demo 本地部署版本，功能较少仅供参考： https://eoddos.2x.nz/
-
 > [!CAUTION]
-> 项目Demo已被DDoS炸
+> 新demo 本地部署版本，功能较少仅供参考： https://eoddos.2x.nz/
+> 原项目Demo已被DDoS炸
 ![27d1b418ff2918a4926e98db778dd554](https://github.com/user-attachments/assets/fc437ef0-b5a6-4113-ab1f-9da91e20be06)
 
 > [!NOTE]
